@@ -1,0 +1,15 @@
+
+/* Changing background color of header section */
+.header .nav{
+    background-color: cornflowerblue;
+
+}
+/* Making anchor tag inline block due to get some padding */
+.header .nav a{
+    padding: 20px;
+    color: white;
+    display: inline-block;
+
+    
+    
+}

@@ -1,0 +1,27 @@
+.container{
+    opacity: 1;
+}
+.container:hover{
+    opacity: 0.5;
+}
+.background{
+    background-color: #b17810;
+    width:20%;
+    height: auto;
+    margin:200px auto;
+    padding: 10px;
+    border-radius:20px ;
+    
+
+}
+
+.background img{
+    width:100%;
+    height: auto;
+    border-radius:20px ;
+    margin-bottom: 15px;
+    
+}
+/* .container{
+    border: 1px solid #000000;
+} */

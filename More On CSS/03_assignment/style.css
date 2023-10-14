@@ -1,0 +1,43 @@
+
+/* Changing background color of header section */
+.header .nav{
+    background-color: #6495ed;
+
+}
+/* Making anchor tag inline block due to get some padding */
+.header .nav a{
+    padding: 10px;
+    color: white;
+    display: inline-block;
+    
+    text-decoration: none;
+    margin: 20px;
+
+    
+    
+}
+.header .nav a.home{
+    border: 1px solid #000000;
+    border-radius: 15px;
+
+}
+.header .nav a.aboutUs{
+    border: 2px dashed #ff0000;
+    border-radius: 15px;
+
+}
+.header .nav a.contact{
+    border: 2px dotted #008000;
+    border-radius: 15px;
+
+}
+.header .nav a.blog{
+    border: 2px inset #020080;
+    border-radius: 15px;
+}
+.header .nav a.login{
+    border: 2px outset #806d00;
+    border-radius: 15px;
+}
+
+
